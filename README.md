@@ -1,2 +1,13 @@
-# online-application-system
-This system simplifies the application process for potential students interested in studying at Mangosuthu University of Technology. Apply effortlessly and kickstart your academic journey with ease.
+#SCREENSHOTS
+
+
+
+![screenshot2](https://raw.githubusercontent.com/mthunzigcwensa/NIKE-DESIGN/main/Screenshot%202024-01-10%20032511.png)
+![screenshot2](https://raw.githubusercontent.com/mthunzigcwensa/eWallet-online-expense-tracking-app-/main/Screenshot%202024-01-10%20025659.png)
+
+![screenshot2](https://raw.githubusercontent.com/mthunzigcwensa/eWallet-online-expense-tracking-app-/main/Screenshot%202024-01-10%20025812.png)
+![screenshot2](https://raw.githubusercontent.com/mthunzigcwensa/eWallet-online-expense-tracking-app-/main/Screenshot%202024-01-10%20025910.png)
+![screenshot2](https://raw.githubusercontent.com/mthunzigcwensa/eWallet-online-expense-tracking-app-/main/Screenshot%202024-01-10%20030033.png)
+![screenshot2](https://raw.githubusercontent.com/mthunzigcwensa/eWallet-online-expense-tracking-app-/main/Screenshot%202024-01-10%20030033.png)
+![screenshot2](https://raw.githubusercontent.com/mthunzigcwensa/eWallet-online-expense-tracking-app-/main/Screenshot%202024-01-10%20030203.png)
+
